@@ -16,11 +16,11 @@ This project is a simple React application built to practice and demonstrate the
 react_router_practice/
 ├── public/
 ├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── App.js
-│ ├── index.js
-│ └── routes.js
+│   ├── components/
+│   ├── pages/
+│   ├── App.js
+│   ├── index.js
+│   └── routes.js
 ├── .gitignore
 ├── package.json
 └── README.md
